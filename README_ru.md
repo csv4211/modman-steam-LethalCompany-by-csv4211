@@ -1,5 +1,5 @@
-LICENSE: [RU](https://github.com/csv4211/modman-steam-LethalCompany-by-csv4211/blob/main/LICENSE.md) | [US](https://github.com/csv4211/modman-steam-LethalCompany-by-csv4211/blob/main/LICENSE.md)  
-README: [RU](https://github.com/csv4211/modman-steam-LethalCompany-by-csv4211/blob/main/README_ru.md) | [US](https://github.com/csv4211/modman-steam-LethalCompany-by-csv4211/blob/main/README_us.md)  
+LICENSE: [RU](/LICENSE.md) | [US](/LICENSE.md)  
+README: [RU](/README_ru.md) | [US](/README_us.md)  
 
 # modman-LethalCompany-(steam)-by-csv4211
 
