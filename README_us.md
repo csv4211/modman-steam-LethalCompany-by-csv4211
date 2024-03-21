@@ -5,10 +5,10 @@ README: [RU](/README_ru.md) | [US](/README_us.md)
 
 modman-LethalCompany-(steam)-by-csv4211 is a simple mod manager for the game Lethal Company.  
 
-There is a ready-made solution called (r2modman (not advertising)), but in my opinion, it seemed unclear, complex, and inconvenient, so I decided to create my own mod manager, which is extremely easy to use.  
+There is a ready-made solution called (r2modman(not advertising)), but in my opinion, it seemed unclear, complex, and inconvenient, so I decided to create my own mod manager, which is extremely easy to use.  
 
-Currently, the program is at the Alpha 0.0.5.7 stage and looks like this:  
-![image](https://sun9-54.userapi.com/impg/E7y4-SroTLe910NRcdusoagzGuEuZo8l-4Sk2w/y1lQj0rrIAw.jpg?size=368x188&quality=96&sign=682281a26fec5f3dc77960768e960b50&type=album)  
+Currently, the program is at the Alpha 0.0.6.0 stage and looks like this:  
+![image](https://sun9-78.userapi.com/impg/sRzC1uR-oXqXjwXMp_Xoc4yZ3-swarJarI1jxA/x-XA0qEWNnE.jpg?size=371x189&quality=96&sign=e9716cb4a4fdf4d2096c1d180e038fa3&type=album)  
 
 ## How the program works
 
