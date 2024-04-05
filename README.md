@@ -27,7 +27,6 @@ Main update plans:
 
 ## In case of error
 
-If you find an error, report it to our Discord server https://discord.gg/M7bkpzMHBm  
 If you find an error, it is preferable to collect as much information as possible.  
 You can also contact me personally: dragon13_76 (discord)  
 
