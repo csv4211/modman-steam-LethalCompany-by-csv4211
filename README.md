@@ -7,8 +7,8 @@ modman-LethalCompany-(steam)-by-csv4211 is a simple mod manager for the game Let
 
 There is a ready-made solution called (r2modman(not advertising)), but in my opinion, it seemed unclear, complex, and inconvenient, so I decided to create my own mod manager, which is extremely easy to use.  
 
-Now the program is at the intermediate stage of pre-release Alfa 0.0.6.3 and looks like this:  
-![image](https://sun9-21.userapi.com/impg/m4kVcKttXjH8Slco_ALaxdYc_xnXAT78V32E8A/5H1Rvfw_CfA.jpg?size=460x191&quality=96&sign=b2eda0e489f88888021cc9b83ba09025&type=album)  
+Now the program is at the intermediate stage of pre-release Alfa 0.0.6.4 and looks like this:  
+![image](https://sun9-53.userapi.com/impg/QAfP_XnQxymDao58kw0Leg5WQ8dkz9JO5F7OrQ/VpvoFSyJRn8.jpg?size=441x191&quality=96&sign=36671c6dd2021158fbb028cdd1c5e13c&type=album)  
 
 ## How the program works
 
