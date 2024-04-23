@@ -73,3 +73,10 @@ Version Alfa 0.0.6.6 released on 07.04.24 at 00:41 Moscow time
 
 Версия Alfa 0.0.6.8 выпущена 14.04.24 в 19:38 по Москве  
 Version Alfa 0.0.6.8 released on 14.04.24 at 19:38 Moscow time
+
+
+## pre-release Alfa 0.0.7.0  
+
+
+Версия Alfa 0.0.7.0 выпущена 24.04.24 в 00:37 по Москве  
+Version Alfa 0.0.7.0 released on 24.04.24 at 00:37 Moscow time
